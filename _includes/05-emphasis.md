@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*The Gods are not to be blamed*
+**The Gods mountain**
+_Once **upon** a time in china_
